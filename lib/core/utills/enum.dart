@@ -1,0 +1,1 @@
+enum ShowImagePositionAt { right, left, none }
